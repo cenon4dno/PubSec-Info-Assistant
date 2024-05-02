@@ -11,6 +11,7 @@ export type ExampleModel = {
 };
 
 const EXAMPLES: ExampleModel[] = [
+    { text: "What is the most recent object to land on Mars?", value: "What is the most recent object to land on Mars?" },
     { text: "What is the Microsoft 365?", value: "What is the Microsoft 365?" },
     { text: "What are Microsoft's primary sources of revenue?", value: "What are Microsoft's primary sources of revenue?" },
     { text: "What is cyber security?", value: "What is cyber security?" }
